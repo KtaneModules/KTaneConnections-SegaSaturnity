@@ -1,0 +1,10 @@
+{
+  "name": "KTaneConnections-Editor",
+  "references": [
+    "KTaneConnections"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
